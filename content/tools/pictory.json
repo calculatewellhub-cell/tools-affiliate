@@ -1,0 +1,145 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Fliki",
+    "InVideo",
+    "Lumen5",
+    "Descript"
+  ],
+  "relatedGuides": [
+    "free-vs-freemium-vs-paid-software"
+  ],
+  "relatedFreeTools": [
+    "word-counter"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "pictory",
+  "name": "Pictory",
+  "brandColor": "#2563EB",
+  "category": "video-tools",
+  "subcategories": [
+    "ai-video",
+    "text-to-video",
+    "video-editing",
+    "subtitles",
+    "ai-tools/ai-video"
+  ],
+  "tags": [
+    "ai video",
+    "blog to video",
+    "video summaries",
+    "captions",
+    "subtitles",
+    "repurpose video",
+    "youtube",
+    "social video"
+  ],
+  "isAI": true,
+  "platforms": [
+    "Web"
+  ],
+  "tagline": "Create and repurpose videos from scripts, articles and long recordings.",
+  "shortDescription": "AI video tool for turning scripts and articles into videos and repurposing long recordings into short clips.",
+  "description": [
+    "Pictory is a browser-based AI video tool. It helps create videos from scripts or articles and can be used to repurpose longer recordings into shorter clips.",
+    "It is aimed at marketers, educators and creators who want to produce video regularly without a traditional editing workflow.",
+    "Pictory has offered a free trial rather than a permanent free plan; check the official website for current trial terms and plan limits."
+  ],
+  "websiteUrl": "https://pictory.ai/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Demo profile: plan names and prices have not been recorded yet. Check the official website for current pricing.",
+    "model": "free-trial",
+    "freePlan": "unknown",
+    "freeTrial": "yes",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://pictory.ai/pricing"
+  },
+  "keyFeatures": [
+    {
+      "title": "Script and article to video",
+      "description": "Builds a video from written content by matching text with visuals."
+    },
+    {
+      "title": "Repurpose long videos",
+      "description": "Helps create shorter clips from longer recordings such as webinars."
+    },
+    {
+      "title": "Captions",
+      "description": "Adds captions to videos. Check the official site for supported languages."
+    }
+  ],
+  "howItWorks": [
+    "Start a trial or plan on the official website.",
+    "Choose to start from a script, an article URL or an existing video.",
+    "Review the scenes, visuals and captions it suggests.",
+    "Adjust, add a voiceover or music, and export."
+  ],
+  "useCases": [
+    "Turning blog posts into videos",
+    "Clipping highlights from webinars",
+    "Captioned videos for social feeds"
+  ],
+  "bestFor": [
+    "Marketers repurposing existing content",
+    "Educators creating short lesson videos"
+  ],
+  "notIdealFor": [
+    "Advanced timeline editing",
+    "Teams needing an always-free plan"
+  ],
+  "pros": [
+    "Designed for repurposing content you already have",
+    "Browser-based, nothing to install"
+  ],
+  "cons": [
+    "Free access is via a trial — check current terms",
+    "Automatically chosen visuals usually need manual review",
+    "Export limits vary by plan"
+  ],
+  "alternatives": [
+    "fliki",
+    "adobe-express"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Relevance of automatically matched visuals for a 600-word article",
+      "Caption accuracy on a recording with clear speech",
+      "Trial length and limits on the date of testing",
+      "Export resolution available on the entry-level plan"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Is Pictory free?",
+      "a": "Pictory has offered a free trial. Check the official pricing page for current trial terms and plan details."
+    },
+    {
+      "q": "What is the difference between Pictory and Fliki?",
+      "a": "Both create videos from text. See our Fliki vs Pictory comparison for a detailed look at how they differ and which type of user each suits."
+    }
+  ],
+  "seo": {
+    "title": "Pictory: AI Video Repurposing Tool Overview & Alternatives",
+    "description": "Pictory explained: script-to-video, repurposing long recordings, captions, trial notes, limitations and alternatives.",
+    "primaryKeyword": "pictory",
+    "secondaryKeywords": [
+      "pictory ai",
+      "pictory alternatives",
+      "ai video tool"
+    ]
+  }
+}

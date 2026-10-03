@@ -1,0 +1,41 @@
+{
+  "slug": "grammarly-vs-quillbot",
+  "toolA": "grammarly",
+  "toolB": "quillbot",
+  "title": "Grammarly vs QuillBot",
+  "intro": [
+    "Grammarly and QuillBot are both popular writing tools with free plans, and they overlap on grammar checking. Their starting points are different, though: Grammarly is built around correcting and improving text as you write, while QuillBot is best known for rewriting and summarising text you paste in.",
+    "This comparison explains how they differ so you can pick the one that matches how you write. Many people use one of each."
+  ],
+  "similarities": [
+    "Both offer a free plan and paid upgrades.",
+    "Both include grammar and spelling checking.",
+    "Both use AI to suggest changes to your text.",
+    "Both are used by students, professionals and content writers."
+  ],
+  "differences": [
+    { "aspect": "Core focus", "a": "Correcting and improving text as you write", "b": "Paraphrasing and summarising text you provide" },
+    { "aspect": "Where you use it", "a": "Browser extension and apps that work inside other software", "b": "Mainly its own web editor, plus extensions — check official site" },
+    { "aspect": "Typical workflow", "a": "Write normally and accept suggestions inline", "b": "Paste text, choose a mode, compare outputs" }
+  ],
+  "considerA": [
+    "You want suggestions inside email, documents and web forms as you type.",
+    "Your main goal is correctness, clarity and tone rather than rewording.",
+    "You write a lot of short, everyday text such as emails and messages."
+  ],
+  "considerB": [
+    "You often need to rephrase or simplify your own drafts.",
+    "You want to summarise long material quickly.",
+    "You prefer working in a dedicated editor rather than an extension."
+  ],
+  "faqs": [
+    { "q": "Can I use Grammarly and QuillBot together?", "a": "Yes. Some writers paraphrase or summarise in QuillBot and then proofread the result in Grammarly. Check each tool's terms and your organisation's AI policy." },
+    { "q": "Which is better for students?", "a": "It depends on the task. Grammarly suits proofreading assignments; QuillBot suits summarising notes and rewording your own drafts. Always follow your institution's rules on AI tools." }
+  ],
+  "seo": {
+    "title": "Grammarly vs QuillBot: Differences, Free Plans & Use Cases",
+    "description": "Grammarly vs QuillBot compared: core focus, free plans, where each works and which type of writer each suits. Pick based on how you write."
+  },
+  "dates": { "published": "2026-10-03", "lastUpdated": "2026-10-03" },
+  "dataStatus": "draft"
+}

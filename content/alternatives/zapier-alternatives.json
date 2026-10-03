@@ -1,0 +1,25 @@
+{
+  "slug": "zapier-alternatives",
+  "tool": "zapier",
+  "title": "Zapier Alternatives",
+  "intro": [
+    "Zapier popularised no-code automation, but usage-based pricing and workflow complexity lead many people to compare alternatives."
+  ],
+  "whyLookElsewhere": [
+    "Your monthly task volume makes cost a major factor.",
+    "You want a visual builder for branching workflows.",
+    "You need to self-host automations for data-control reasons."
+  ],
+  "picks": [
+    { "slug": "make", "note": "A visual, canvas-based builder that many users find easier for complex, branching workflows." }
+  ],
+  "faqs": [
+    { "q": "What is the most common Zapier alternative?", "a": "Make (formerly Integromat) is one of the most frequently compared. Self-hosted options such as n8n are also popular with technical users." }
+  ],
+  "seo": {
+    "title": "Zapier Alternatives: No-Code Automation Tools Compared",
+    "description": "Compare Zapier alternatives for no-code automation, including Make. What to check on pricing, builder style and integrations."
+  },
+  "dates": { "published": "2026-10-03", "lastUpdated": "2026-10-03" },
+  "dataStatus": "draft"
+}

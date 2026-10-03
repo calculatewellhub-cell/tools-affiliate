@@ -1,0 +1,147 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Bluehost",
+    "SiteGround",
+    "Namecheap",
+    "DreamHost"
+  ],
+  "relatedGuides": [
+    "free-vs-freemium-vs-paid-software"
+  ],
+  "relatedFreeTools": [
+    "slug-generator",
+    "serp-snippet-preview"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "hostinger",
+  "name": "Hostinger",
+  "brandColor": "#673DE6",
+  "category": "website-tools",
+  "subcategories": [
+    "hosting",
+    "domains",
+    "wordpress",
+    "website-builders"
+  ],
+  "tags": [
+    "web hosting",
+    "wordpress hosting",
+    "domain registration",
+    "website builder",
+    "cloud hosting",
+    "vps",
+    "small business website",
+    "blog hosting"
+  ],
+  "isAI": false,
+  "platforms": [
+    "Web"
+  ],
+  "tagline": "Web hosting, domains and website building for small sites and businesses.",
+  "shortDescription": "Web hosting provider offering shared, WordPress and cloud hosting, domains and a website builder.",
+  "description": [
+    "Hostinger is a web hosting company offering shared hosting, WordPress hosting, cloud and VPS hosting, domain registration and a website builder.",
+    "It is commonly considered by bloggers, freelancers and small businesses launching their first website.",
+    "Hosting prices often differ between the introductory term and renewal. Before buying, check the renewal price, the length of term the advertised price requires and what is included (email, backups, SSL)."
+  ],
+  "websiteUrl": "https://www.hostinger.com/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Check both the introductory price and the renewal price, and the contract length the advertised price requires.",
+    "model": "paid",
+    "freePlan": "no",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://www.hostinger.com/pricing"
+  },
+  "keyFeatures": [
+    {
+      "title": "Several hosting types",
+      "description": "Shared, WordPress, cloud and VPS hosting options for different site sizes."
+    },
+    {
+      "title": "Domain registration",
+      "description": "Register and manage domain names alongside hosting."
+    },
+    {
+      "title": "Website builder",
+      "description": "A builder option for people who prefer not to use WordPress."
+    },
+    {
+      "title": "Control panel",
+      "description": "A custom control panel for managing sites, email and domains."
+    }
+  ],
+  "howItWorks": [
+    "Choose a hosting type that fits your site (most new blogs start with shared or WordPress hosting).",
+    "Pick a plan and term length, checking renewal pricing.",
+    "Register or connect a domain.",
+    "Install WordPress or use the website builder, then publish."
+  ],
+  "useCases": [
+    "Hosting a new blog or portfolio",
+    "Small business websites",
+    "Hosting several small WordPress sites"
+  ],
+  "bestFor": [
+    "Beginners launching a first website",
+    "Small businesses and freelancers"
+  ],
+  "notIdealFor": [
+    "High-traffic applications needing custom infrastructure",
+    "Anyone who needs a free hosting plan"
+  ],
+  "pros": [
+    "Covers hosting, domains and site building in one account",
+    "Options to scale from shared to cloud or VPS"
+  ],
+  "cons": [
+    "No free plan",
+    "Introductory and renewal prices can differ significantly — check both",
+    "Longer terms may be required for the lowest advertised price"
+  ],
+  "alternatives": [],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Time to first byte and page load from US, UK, India and Australia test locations",
+      "Renewal price vs introductory price for each plan on the date of checking",
+      "What is included: SSL, email, backups, staging",
+      "Support response time on a basic technical question"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Does Hostinger offer free hosting?",
+      "a": "Hostinger's plans are paid. Check the official website for current terms, including any money-back guarantee."
+    },
+    {
+      "q": "What should I check before buying hosting?",
+      "a": "Compare the renewal price, required contract length, backups, email accounts, SSL certificates and support channels — not just the introductory price."
+    }
+  ],
+  "seo": {
+    "title": "Hostinger: Web Hosting Overview, What to Check & Alternatives",
+    "description": "Hostinger hosting explained: hosting types, domains, website builder, renewal pricing checks and alternatives to consider.",
+    "primaryKeyword": "hostinger",
+    "secondaryKeywords": [
+      "hostinger hosting",
+      "wordpress hosting",
+      "hostinger alternatives"
+    ]
+  },
+  "featured": true
+}

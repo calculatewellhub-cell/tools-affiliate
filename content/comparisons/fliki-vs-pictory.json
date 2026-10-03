@@ -1,0 +1,41 @@
+{
+  "slug": "fliki-vs-pictory",
+  "toolA": "fliki",
+  "toolB": "pictory",
+  "title": "Fliki vs Pictory",
+  "intro": [
+    "Fliki and Pictory both help you create videos from text without traditional editing software. They are often compared by creators and marketers who want to turn scripts or blog posts into video.",
+    "Fliki puts AI voiceovers at the centre of its workflow, while Pictory emphasises repurposing existing content — including long recordings — into shorter videos."
+  ],
+  "similarities": [
+    "Both are browser-based — nothing to install.",
+    "Both can turn written content into video.",
+    "Both offer paid plans with higher limits.",
+    "Both are aimed at non-editors."
+  ],
+  "differences": [
+    { "aspect": "Emphasis", "a": "Text-to-video with AI voiceovers", "b": "Repurposing articles and long videos into clips" },
+    { "aspect": "How to try it", "a": "Free plan listed — check limits", "b": "Free trial offered — check terms" },
+    { "aspect": "Good starting material", "a": "A script or idea", "b": "An article, script or existing recording" }
+  ],
+  "considerA": [
+    "Voiceover quality and voice choice are your top priority.",
+    "You start from scripts or ideas rather than existing videos.",
+    "You want an ongoing free plan to experiment with."
+  ],
+  "considerB": [
+    "You already have webinars, podcasts or long videos to cut down.",
+    "You regularly convert blog posts into videos.",
+    "Captioned clips for social feeds are a key output."
+  ],
+  "faqs": [
+    { "q": "Which is better for YouTube?", "a": "Both can produce YouTube videos. Fliki suits narrated, script-first videos; Pictory suits repurposing existing content. Check export resolution and watermark rules on your plan." },
+    { "q": "Do I need video editing skills?", "a": "No, both are designed for beginners, though you will get better results by reviewing scenes and visuals manually." }
+  ],
+  "seo": {
+    "title": "Fliki vs Pictory: AI Video Tools Compared",
+    "description": "Fliki vs Pictory: text-to-video, AI voiceovers, repurposing, free plan vs trial and which creator each suits."
+  },
+  "dates": { "published": "2026-10-03", "lastUpdated": "2026-10-03" },
+  "dataStatus": "draft"
+}

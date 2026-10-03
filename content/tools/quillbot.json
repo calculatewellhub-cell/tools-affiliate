@@ -1,0 +1,150 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Grammarly",
+    "Wordtune",
+    "Paraphraser.io"
+  ],
+  "relatedGuides": [
+    "how-to-choose-an-ai-writing-tool"
+  ],
+  "relatedFreeTools": [
+    "word-counter",
+    "case-converter"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "quillbot",
+  "name": "QuillBot",
+  "brandColor": "#499557",
+  "category": "writing-tools",
+  "subcategories": [
+    "paraphrasing",
+    "summarization",
+    "grammar",
+    "ai-tools/ai-writing"
+  ],
+  "tags": [
+    "paraphrasing tool",
+    "rewriter",
+    "summarizer",
+    "grammar checker",
+    "citation",
+    "students",
+    "rewrite sentences",
+    "ai writing"
+  ],
+  "isAI": true,
+  "platforms": [
+    "Web",
+    "Browser extension"
+  ],
+  "tagline": "Rewrite, summarise and check text with a set of AI writing tools.",
+  "shortDescription": "AI writing toolkit known for paraphrasing, with summarising, grammar checking and other writing utilities.",
+  "description": [
+    "QuillBot is an online writing toolkit best known for its paraphrasing tool, which rewrites sentences and paragraphs in different ways while aiming to keep the original meaning.",
+    "Alongside paraphrasing it offers tools such as a summariser and grammar checker. Students and content writers commonly use it to rework their own drafts or condense long material.",
+    "Paraphrasing tools should be used responsibly: rewording someone else's work does not make it original, and academic institutions have their own rules about AI-assisted writing."
+  ],
+  "websiteUrl": "https://quillbot.com/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Demo profile: plan names and prices have not been recorded yet. Check the official website for current pricing.",
+    "model": "freemium",
+    "freePlan": "yes",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://quillbot.com/upgrade"
+  },
+  "keyFeatures": [
+    {
+      "title": "Paraphrasing modes",
+      "description": "Rewrites text in different styles so you can choose wording that fits your audience."
+    },
+    {
+      "title": "Summariser",
+      "description": "Condenses long passages into shorter summaries or key points."
+    },
+    {
+      "title": "Grammar checking",
+      "description": "Checks text for grammar, spelling and punctuation mistakes."
+    },
+    {
+      "title": "Browser access",
+      "description": "Use the web app, or check the official site for browser extensions and integrations."
+    }
+  ],
+  "howItWorks": [
+    "Open the QuillBot website and choose a tool, such as the paraphraser.",
+    "Paste or type your text into the input box.",
+    "Pick a mode and run the tool.",
+    "Compare the output with your original and edit it — always check that meaning and facts are preserved."
+  ],
+  "useCases": [
+    "Rewording your own drafts for clarity",
+    "Summarising long articles or notes",
+    "Varying sentence structure in content writing"
+  ],
+  "bestFor": [
+    "Students reworking their own notes and drafts",
+    "Writers who want alternative phrasings quickly"
+  ],
+  "notIdealFor": [
+    "Anyone hoping to disguise copied work — this is plagiarism",
+    "Highly technical or legal text where exact wording matters"
+  ],
+  "pros": [
+    "A free plan is available",
+    "Several writing utilities in one place",
+    "Quick way to see alternative phrasings"
+  ],
+  "cons": [
+    "Free plan has limits — check current limits on the official site",
+    "Rewritten text can shift meaning and must be reviewed",
+    "Use may be restricted by academic or employer AI policies"
+  ],
+  "alternatives": [
+    "grammarly",
+    "writesonic"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Meaning preservation across the paraphrasing modes on a fixed test passage",
+      "Summary accuracy on a long article with known key points",
+      "Free plan word/character limits on the date of testing",
+      "Grammar checker accuracy compared with a dedicated grammar tool"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Is QuillBot free?",
+      "a": "QuillBot offers a free plan with limits, and paid plans with more features. Check the official website for current limits."
+    },
+    {
+      "q": "Is using a paraphrasing tool plagiarism?",
+      "a": "Paraphrasing someone else's work without credit can still be plagiarism. Use paraphrasing tools on your own writing, cite sources, and follow your institution's or employer's rules."
+    }
+  ],
+  "seo": {
+    "title": "QuillBot: Paraphrasing Tool Features, Free Plan & Alternatives",
+    "description": "An honest overview of QuillBot's paraphraser, summariser and grammar tools: free plan notes, limitations and alternatives.",
+    "primaryKeyword": "quillbot",
+    "secondaryKeywords": [
+      "quillbot paraphraser",
+      "quillbot alternatives",
+      "paraphrasing tool"
+    ]
+  }
+}

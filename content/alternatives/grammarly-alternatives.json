@@ -1,0 +1,27 @@
+{
+  "slug": "grammarly-alternatives",
+  "tool": "grammarly",
+  "title": "Grammarly Alternatives",
+  "intro": [
+    "Grammarly is a widely used writing assistant, but it is not the only option. Depending on whether you need proofreading, rewriting or AI drafting, a different tool may fit better — or work well alongside it."
+  ],
+  "whyLookElsewhere": [
+    "You mainly need paraphrasing or summarising rather than proofreading.",
+    "You want AI drafting for long-form marketing content.",
+    "Budget: you want to compare what different free plans include.",
+    "Privacy or organisational policies limit which services you can use."
+  ],
+  "picks": [
+    { "slug": "quillbot", "note": "Best considered when rewording and summarising your own text is the main job." },
+    { "slug": "writesonic", "note": "Worth a look if you need AI-generated first drafts for marketing and SEO content rather than proofreading." }
+  ],
+  "faqs": [
+    { "q": "Is there a free alternative to Grammarly?", "a": "Several writing tools offer free plans, including QuillBot. Free plans have limits, so compare what each includes on the official websites." }
+  ],
+  "seo": {
+    "title": "Grammarly Alternatives: Writing Tools to Compare",
+    "description": "Looking for a Grammarly alternative? Compare writing tools for paraphrasing, summarising and AI drafting, with free plan notes."
+  },
+  "dates": { "published": "2026-10-03", "lastUpdated": "2026-10-03" },
+  "dataStatus": "draft"
+}

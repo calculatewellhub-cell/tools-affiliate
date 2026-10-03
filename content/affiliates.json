@@ -1,0 +1,83 @@
+{
+  "_readme": "Single source of truth for outbound links. A link uses affiliate_url ONLY when affiliate_status is \"active\" and affiliate_url is set; otherwise it uses official_url. Never paste affiliate links into content files. See README → Affiliate links.",
+  "adobe-express": {
+    "official_url": "https://www.adobe.com/express/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "fliki": {
+    "official_url": "https://fliki.ai/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "grammarly": {
+    "official_url": "https://www.grammarly.com/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "hostinger": {
+    "official_url": "https://www.hostinger.com/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "make": {
+    "official_url": "https://www.make.com/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "pictory": {
+    "official_url": "https://pictory.ai/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "quillbot": {
+    "official_url": "https://quillbot.com/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "semrush": {
+    "official_url": "https://www.semrush.com/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "writesonic": {
+    "official_url": "https://writesonic.com/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  },
+  "zapier": {
+    "official_url": "https://zapier.com/",
+    "affiliate_url": null,
+    "affiliate_status": "none",
+    "network": "",
+    "notes": "Placeholder — no affiliate relationship recorded.",
+    "updated": "2026-10-03"
+  }
+}

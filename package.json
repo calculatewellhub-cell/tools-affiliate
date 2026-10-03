@@ -1,0 +1,32 @@
+{
+  "name": "calculatewellhub-tools",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CalculateWellHub Tools — software and tool discovery hub (tools.calculatewellhub.in)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve@latest out",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate-content.mjs",
+    "prebuild": "node scripts/validate-content.mjs"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "marked": "^18.0.14",
+    "next": "^16.3.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3"
+  }
+}

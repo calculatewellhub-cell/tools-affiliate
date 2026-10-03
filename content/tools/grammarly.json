@@ -1,0 +1,167 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "QuillBot",
+    "ProWritingAid",
+    "LanguageTool",
+    "Hemingway Editor"
+  ],
+  "relatedGuides": [
+    "how-to-choose-an-ai-writing-tool",
+    "free-vs-freemium-vs-paid-software"
+  ],
+  "relatedFreeTools": [
+    "word-counter",
+    "case-converter"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "grammarly",
+  "name": "Grammarly",
+  "brandColor": "#15C39A",
+  "category": "writing-tools",
+  "subcategories": [
+    "grammar",
+    "editing",
+    "ai-tools/ai-writing"
+  ],
+  "tags": [
+    "grammar checker",
+    "spell checker",
+    "punctuation",
+    "tone",
+    "clarity",
+    "browser extension",
+    "proofreading",
+    "ai writing assistant",
+    "students",
+    "job seekers",
+    "emails"
+  ],
+  "isAI": true,
+  "platforms": [
+    "Web",
+    "Browser extension",
+    "Windows",
+    "macOS",
+    "iOS",
+    "Android"
+  ],
+  "tagline": "A writing assistant that checks grammar, spelling and clarity wherever you type.",
+  "shortDescription": "Writing assistant for grammar, spelling, punctuation and clarity suggestions, with AI writing features and a browser extension.",
+  "description": [
+    "Grammarly is a writing assistant that reviews your text and suggests corrections for spelling, grammar and punctuation, along with suggestions aimed at clarity and tone.",
+    "Its main appeal is that it works where you already write: in the browser through an extension, and in desktop and mobile apps. That makes it useful for emails, documents, social posts and web forms without copying text into a separate editor.",
+    "Grammarly also offers generative AI features for drafting and rewriting text. Which features are available depends on the plan, so compare the current plan details on the official website before upgrading."
+  ],
+  "websiteUrl": "https://www.grammarly.com/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Demo profile: plan names and prices have not been recorded yet. Check the official website for current pricing.",
+    "model": "freemium",
+    "freePlan": "yes",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://www.grammarly.com/plans"
+  },
+  "keyFeatures": [
+    {
+      "title": "Grammar and spelling checks",
+      "description": "Flags spelling mistakes, grammatical errors and punctuation issues as you write, with suggested fixes."
+    },
+    {
+      "title": "Clarity and tone suggestions",
+      "description": "Suggests ways to make sentences clearer or more concise and can indicate how your writing may come across."
+    },
+    {
+      "title": "Works across apps",
+      "description": "Browser extension and apps bring suggestions into web forms, email and documents instead of a separate editor."
+    },
+    {
+      "title": "AI writing assistance",
+      "description": "Generative AI features help draft, rewrite or adjust text. Availability and limits depend on the plan."
+    }
+  ],
+  "howItWorks": [
+    "Create an account on the official website.",
+    "Install the browser extension or app for the places you write most.",
+    "Write as normal — suggestions appear underlined in your text.",
+    "Review each suggestion and accept or dismiss it. You stay in control of the final wording."
+  ],
+  "useCases": [
+    "Proofreading emails and job applications",
+    "Checking assignments and essays before submission",
+    "Polishing blog posts and social media captions",
+    "Writing in English as a second language"
+  ],
+  "bestFor": [
+    "Everyday writing in email and the browser",
+    "Students and job seekers",
+    "Non-native English writers"
+  ],
+  "notIdealFor": [
+    "Teams that cannot send text to a third-party service",
+    "Writers who want long-form manuscript analysis only",
+    "Users needing full offline use"
+  ],
+  "pros": [
+    "A free plan is available for basic writing suggestions",
+    "Works across many apps through extensions and apps",
+    "Suggestions are explained, which helps you learn"
+  ],
+  "cons": [
+    "Some advanced suggestions and AI features require a paid plan",
+    "Text is processed by an online service — review the privacy terms for sensitive documents",
+    "Suggestions can occasionally change intended meaning, so review them"
+  ],
+  "alternatives": [
+    "quillbot",
+    "writesonic"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Accuracy on a fixed test passage with known errors (spelling, grammar, punctuation)",
+      "How many suggestions are false positives on clean, correct text",
+      "Which features are free vs paid on the date of testing",
+      "Browser extension behaviour in Gmail, Google Docs and a CMS editor",
+      "Privacy controls and data-use settings available to individual users"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Does Grammarly have a free plan?",
+      "a": "Yes. Grammarly lists a free plan on its website. The features included can change, so check the official plans page for the current comparison."
+    },
+    {
+      "q": "Is Grammarly suitable for confidential documents?",
+      "a": "Grammarly processes text online. Review its privacy policy and, for organisations, any business data controls it offers before using it on confidential material."
+    },
+    {
+      "q": "What are the main alternatives to Grammarly?",
+      "a": "Common alternatives include QuillBot, ProWritingAid and LanguageTool. See our Grammarly alternatives page for a side-by-side overview."
+    }
+  ],
+  "seo": {
+    "title": "Grammarly: Features, Free Plan, Pricing Notes & Alternatives",
+    "description": "What Grammarly does, who it suits, free vs paid notes, honest limitations and the best Grammarly alternatives to compare.",
+    "primaryKeyword": "grammarly",
+    "secondaryKeywords": [
+      "grammarly free plan",
+      "grammarly alternatives",
+      "grammar checker"
+    ]
+  },
+  "featured": true
+}

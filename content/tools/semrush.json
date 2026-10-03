@@ -1,0 +1,160 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Ahrefs",
+    "Moz Pro",
+    "SE Ranking",
+    "Ubersuggest"
+  ],
+  "relatedGuides": [
+    "how-to-evaluate-seo-tools",
+    "free-vs-freemium-vs-paid-software"
+  ],
+  "relatedFreeTools": [
+    "serp-snippet-preview",
+    "slug-generator",
+    "utm-builder"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "semrush",
+  "name": "Semrush",
+  "brandColor": "#FF642D",
+  "category": "seo-tools",
+  "subcategories": [
+    "keyword-research",
+    "seo-audit",
+    "rank-tracking",
+    "backlink-tools",
+    "content-optimization",
+    "marketing-tools/analytics"
+  ],
+  "tags": [
+    "seo suite",
+    "keyword research",
+    "site audit",
+    "backlinks",
+    "competitor analysis",
+    "rank tracker",
+    "ppc research",
+    "content marketing"
+  ],
+  "isAI": false,
+  "platforms": [
+    "Web"
+  ],
+  "tagline": "All-in-one SEO and online visibility platform for research, audits and tracking.",
+  "shortDescription": "SEO and marketing platform for keyword research, competitor analysis, site audits, backlinks and rank tracking.",
+  "description": [
+    "Semrush is an online visibility platform used by SEO professionals, agencies and marketers. Its core toolkit covers keyword research, competitor analysis, site audits, backlink analysis and position tracking.",
+    "The platform is broad: beyond SEO it includes tools related to content marketing, advertising research and social media. Many users only need part of it, so it is worth mapping your actual tasks to the plan you are considering.",
+    "Semrush offers limited free access, and paid plans unlock higher limits and more features. Limits matter a lot for SEO tools, so compare them carefully."
+  ],
+  "websiteUrl": "https://www.semrush.com/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Semrush offers limited free access with a registered account. Plan limits and any trial offers should be checked on the official pricing page.",
+    "model": "freemium",
+    "freePlan": "yes",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://www.semrush.com/prices/"
+  },
+  "keyFeatures": [
+    {
+      "title": "Keyword research",
+      "description": "Find keyword ideas, estimated search volumes and related questions for a topic."
+    },
+    {
+      "title": "Competitor analysis",
+      "description": "See which keywords and pages drive visibility for other domains."
+    },
+    {
+      "title": "Site audit",
+      "description": "Crawl a website to surface technical and on-page SEO issues."
+    },
+    {
+      "title": "Backlink analysis",
+      "description": "Review links pointing to a domain and monitor changes."
+    },
+    {
+      "title": "Position tracking",
+      "description": "Track keyword rankings over time for chosen locations and devices."
+    }
+  ],
+  "howItWorks": [
+    "Create an account and add your website as a project.",
+    "Run a site audit to find technical issues.",
+    "Research keywords and competitors for your topic.",
+    "Set up position tracking for the keywords that matter to you and review progress regularly."
+  ],
+  "useCases": [
+    "Planning content around search demand",
+    "Finding and fixing technical SEO issues",
+    "Monitoring competitors and backlinks",
+    "Reporting rankings to clients"
+  ],
+  "bestFor": [
+    "SEO professionals and agencies",
+    "Marketing teams managing several channels",
+    "Website owners serious about organic growth"
+  ],
+  "notIdealFor": [
+    "Casual bloggers who only need occasional keyword ideas",
+    "Very small budgets — free tools may be enough to start"
+  ],
+  "pros": [
+    "Covers most SEO tasks in one platform",
+    "Limited free access to try core tools",
+    "Useful competitor research capabilities"
+  ],
+  "cons": [
+    "Can be more than a beginner needs",
+    "Usage limits vary by plan and should be checked carefully",
+    "Search volumes are estimates, as with all third-party SEO tools"
+  ],
+  "alternatives": [
+    "writesonic"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Keyword volume estimates compared with Google Search Console data for a test site",
+      "Site audit findings on a site with known, deliberately introduced issues",
+      "Free account limits on the date of testing",
+      "Rank tracking accuracy against manual checks in a chosen location"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Is Semrush free?",
+      "a": "Semrush offers limited free access with an account. Paid plans raise limits and unlock more tools. Check the official pricing page for current details."
+    },
+    {
+      "q": "Are Semrush search volumes exact?",
+      "a": "No third-party SEO tool has exact Google data. Treat volumes as estimates for comparing keywords, and use Google Search Console for your own site's real data."
+    }
+  ],
+  "seo": {
+    "title": "Semrush: SEO Toolkit Features, Free Access & Alternatives",
+    "description": "Semrush explained: keyword research, site audits, backlinks and rank tracking — who it suits, limits to check and alternatives.",
+    "primaryKeyword": "semrush",
+    "secondaryKeywords": [
+      "semrush free",
+      "semrush alternatives",
+      "seo tool"
+    ]
+  },
+  "featured": true
+}

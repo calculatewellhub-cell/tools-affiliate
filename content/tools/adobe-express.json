@@ -1,0 +1,151 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Canva",
+    "VistaCreate",
+    "Visme"
+  ],
+  "relatedGuides": [
+    "free-vs-freemium-vs-paid-software"
+  ],
+  "relatedFreeTools": [
+    "case-converter"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "adobe-express",
+  "name": "Adobe Express",
+  "brandColor": "#EB1000",
+  "category": "marketing-tools",
+  "subcategories": [
+    "social-media",
+    "ai-tools/ai-image",
+    "ai-tools/ai-marketing",
+    "video-tools/video-editing"
+  ],
+  "tags": [
+    "graphic design",
+    "social media graphics",
+    "templates",
+    "flyers",
+    "thumbnails",
+    "ai image",
+    "quick video",
+    "canva alternative",
+    "logo"
+  ],
+  "isAI": true,
+  "platforms": [
+    "Web",
+    "iOS",
+    "Android"
+  ],
+  "tagline": "Quick design app for social graphics, flyers, short videos and more.",
+  "shortDescription": "Design app from Adobe for creating social posts, flyers, simple videos and other content from templates, with AI features.",
+  "description": [
+    "Adobe Express is a design app for making social media graphics, flyers, presentations, short videos and other content, usually starting from a template.",
+    "It is aimed at people who need good-looking content quickly without learning professional design software. Adobe has added generative AI features; check which are included in each plan.",
+    "There is a free plan and a paid plan with more templates, assets and features."
+  ],
+  "websiteUrl": "https://www.adobe.com/express/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Demo profile: plan names and prices have not been recorded yet. Check the official website for current pricing.",
+    "model": "freemium",
+    "freePlan": "yes",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://www.adobe.com/express/pricing"
+  },
+  "keyFeatures": [
+    {
+      "title": "Templates",
+      "description": "Start from templates for social posts, stories, flyers, thumbnails and more."
+    },
+    {
+      "title": "Quick actions",
+      "description": "One-click tasks such as removing an image background or resizing for another platform."
+    },
+    {
+      "title": "Generative AI features",
+      "description": "Create or edit images and text effects with AI. Usage limits may apply per plan."
+    },
+    {
+      "title": "Simple video",
+      "description": "Create short videos and animations for social media."
+    }
+  ],
+  "howItWorks": [
+    "Sign in with an Adobe account on the web or mobile app.",
+    "Search templates for the format you need.",
+    "Replace text, images and colours with your own.",
+    "Download or share directly to your channels."
+  ],
+  "useCases": [
+    "Social media posts and stories",
+    "YouTube thumbnails",
+    "Event flyers and simple marketing materials"
+  ],
+  "bestFor": [
+    "Small businesses and creators without a designer",
+    "Quick, template-based design work"
+  ],
+  "notIdealFor": [
+    "Professional print production",
+    "Complex illustration or photo retouching"
+  ],
+  "pros": [
+    "A free plan is available",
+    "Large template library",
+    "Works on web and mobile"
+  ],
+  "cons": [
+    "Some templates, assets and AI features require the paid plan",
+    "Less control than professional design tools"
+  ],
+  "alternatives": [
+    "fliki",
+    "pictory"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Time to produce a social post and story from a template",
+      "Free vs premium template ratio for common formats",
+      "Generative AI usage limits on the free plan on the date of testing",
+      "Export options and quality"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Is Adobe Express free?",
+      "a": "Adobe Express has a free plan and a paid plan. Check the official pricing page for what each includes."
+    },
+    {
+      "q": "Is Adobe Express a Canva alternative?",
+      "a": "They serve similar template-based design needs. Compare template libraries, AI features and pricing for your use case."
+    }
+  ],
+  "seo": {
+    "title": "Adobe Express: Quick Design App Overview, Free Plan & Alternatives",
+    "description": "Adobe Express explained: templates, quick actions, AI features, free plan notes, limitations and alternatives.",
+    "primaryKeyword": "adobe express",
+    "secondaryKeywords": [
+      "adobe express free",
+      "canva alternative",
+      "social media design tool"
+    ]
+  },
+  "featured": true
+}

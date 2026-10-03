@@ -1,0 +1,209 @@
+[
+  {
+    "slug": "ai-tools",
+    "name": "AI Tools",
+    "shortName": "AI",
+    "icon": "sparkles",
+    "description": "AI writing assistants, chatbots, image and video generators, voice tools and AI features for everyday work.",
+    "intro": [
+      "AI tools can save hours on drafting, editing, design and video work — but they vary widely in output quality, data handling and pricing structure.",
+      "Use this section to compare AI tools by what you actually need to get done. Every profile notes whether a free plan exists, what to check before paying, and which alternatives are worth a look."
+    ],
+    "subcategories": [
+      { "slug": "ai-writing", "name": "AI Writing", "description": "Tools that draft, rewrite or expand text from prompts." },
+      { "slug": "ai-chatbots", "name": "AI Chatbots", "description": "Conversational assistants for questions, research and drafting." },
+      { "slug": "ai-image", "name": "AI Image", "description": "Generate and edit images from text prompts." },
+      { "slug": "ai-video", "name": "AI Video", "description": "Create or edit video with AI, including text-to-video." },
+      { "slug": "ai-voice", "name": "AI Voice", "description": "Text-to-speech, voiceovers and voice cloning tools." },
+      { "slug": "ai-presentation", "name": "AI Presentation", "description": "Build slide decks and presentations with AI assistance." },
+      { "slug": "ai-coding", "name": "AI Coding", "description": "Code completion, explanation and generation assistants." },
+      { "slug": "ai-seo", "name": "AI SEO", "description": "AI features for keyword research, briefs and on-page optimisation." },
+      { "slug": "ai-productivity", "name": "AI Productivity", "description": "AI for notes, meetings, email and everyday tasks." },
+      { "slug": "ai-marketing", "name": "AI Marketing", "description": "AI for ad copy, social posts, campaigns and creative." }
+    ],
+    "seo": {
+      "title": "AI Tools: Writing, Image, Video, Voice & More",
+      "description": "Browse AI tools for writing, images, video, voice, coding and marketing. Compare free plans, pricing notes, strengths and limitations."
+    }
+  },
+  {
+    "slug": "seo-tools",
+    "name": "SEO Tools",
+    "shortName": "SEO",
+    "icon": "search",
+    "description": "Keyword research, site audits, rank tracking, backlink analysis and content optimisation software.",
+    "intro": [
+      "SEO platforms range from free browser extensions to enterprise suites. The right choice depends on how many sites you manage, which markets you target and whether you need historical data.",
+      "Profiles in this section focus on what each tool is good at, the limits of its free tier, and how it compares with similar platforms."
+    ],
+    "subcategories": [
+      { "slug": "keyword-research", "name": "Keyword Research", "description": "Find search terms, volumes and topic ideas." },
+      { "slug": "seo-audit", "name": "SEO Audit", "description": "Crawl a site and surface technical and on-page issues." },
+      { "slug": "rank-tracking", "name": "Rank Tracking", "description": "Monitor keyword positions over time." },
+      { "slug": "backlink-tools", "name": "Backlink Tools", "description": "Analyse and monitor links pointing to a site." },
+      { "slug": "content-optimization", "name": "Content Optimization", "description": "Improve pages against search intent and topical coverage." },
+      { "slug": "ai-seo", "name": "AI SEO", "description": "AI-assisted SEO research and writing features." },
+      { "slug": "technical-seo", "name": "Technical SEO", "description": "Crawling, indexing, site speed and structured data." }
+    ],
+    "seo": {
+      "title": "SEO Tools: Keyword Research, Audits, Rank Tracking",
+      "description": "Compare SEO tools for keyword research, site audits, rank tracking, backlinks and content optimisation. Free plan notes and alternatives."
+    }
+  },
+  {
+    "slug": "writing-tools",
+    "name": "Writing Tools",
+    "shortName": "Writing",
+    "icon": "pen",
+    "description": "Grammar checkers, paraphrasers, summarisers, plagiarism checkers and editing tools.",
+    "intro": [
+      "Writing tools help you catch mistakes, tighten sentences and rework text for a different audience. Some focus on correctness, others on rewriting or generating new copy.",
+      "Check how each tool handles your documents and data, and which features are limited to paid plans, before relying on it for important work."
+    ],
+    "subcategories": [
+      { "slug": "grammar", "name": "Grammar", "description": "Spelling, grammar and punctuation checking." },
+      { "slug": "paraphrasing", "name": "Paraphrasing", "description": "Rewrite sentences and paragraphs in different ways." },
+      { "slug": "ai-writing", "name": "AI Writing", "description": "Generate drafts and copy with AI." },
+      { "slug": "summarization", "name": "Summarization", "description": "Condense long text into key points." },
+      { "slug": "plagiarism", "name": "Plagiarism", "description": "Check text for matches against other sources." },
+      { "slug": "editing", "name": "Editing", "description": "Style, clarity and readability improvements." }
+    ],
+    "seo": {
+      "title": "Writing Tools: Grammar, Paraphrasing & AI Writing",
+      "description": "Find writing tools for grammar checking, paraphrasing, summarising, plagiarism checks and AI drafting. Compare free and paid options."
+    }
+  },
+  {
+    "slug": "video-tools",
+    "name": "Video Tools",
+    "shortName": "Video",
+    "icon": "video",
+    "description": "AI video makers, editors, avatars, text-to-video, text-to-speech and subtitle tools.",
+    "intro": [
+      "Video tools now cover everything from turning a blog post into a short clip to generating narration and subtitles automatically.",
+      "Pay attention to export limits, watermarks on free plans and licensing for stock media — they differ a lot between products."
+    ],
+    "subcategories": [
+      { "slug": "ai-video", "name": "AI Video", "description": "AI-assisted video creation." },
+      { "slug": "video-editing", "name": "Video Editing", "description": "Cut, trim and polish footage." },
+      { "slug": "ai-avatar", "name": "AI Avatar", "description": "Presenter-style videos with digital avatars." },
+      { "slug": "text-to-video", "name": "Text to Video", "description": "Turn scripts, articles or prompts into video." },
+      { "slug": "text-to-speech", "name": "Text to Speech", "description": "Generate voiceovers from written text." },
+      { "slug": "subtitles", "name": "Subtitles", "description": "Automatic captions and subtitle editing." }
+    ],
+    "seo": {
+      "title": "Video Tools: AI Video, Editing, Text-to-Video",
+      "description": "Explore video tools for AI video creation, editing, avatars, text-to-video, voiceovers and subtitles. Free plan limits and alternatives."
+    }
+  },
+  {
+    "slug": "marketing-tools",
+    "name": "Marketing Tools",
+    "shortName": "Marketing",
+    "icon": "megaphone",
+    "description": "Email marketing, social media, automation, analytics and advertising tools.",
+    "intro": [
+      "Marketing software is where costs can grow quickly as your list, audience or team grows. Look closely at how each tool prices contacts, seats or usage.",
+      "This section groups tools by job — sending email, scheduling social posts, automating workflows or measuring results."
+    ],
+    "subcategories": [
+      { "slug": "email-marketing", "name": "Email Marketing", "description": "Newsletters, campaigns and email automation." },
+      { "slug": "social-media", "name": "Social Media", "description": "Scheduling, publishing and social design." },
+      { "slug": "marketing-automation", "name": "Marketing Automation", "description": "Automate repetitive marketing workflows." },
+      { "slug": "analytics", "name": "Analytics", "description": "Measure traffic, conversions and campaigns." },
+      { "slug": "advertising", "name": "Advertising", "description": "Create and manage paid ad campaigns." }
+    ],
+    "seo": {
+      "title": "Marketing Tools: Email, Social Media & Automation",
+      "description": "Compare marketing tools for email, social media, automation, analytics and advertising. See free plans, pricing notes and alternatives."
+    }
+  },
+  {
+    "slug": "website-tools",
+    "name": "Website Tools",
+    "shortName": "Website",
+    "icon": "globe",
+    "description": "Web hosting, domains, WordPress, website builders, landing pages and forms.",
+    "intro": [
+      "Launching a website involves several decisions: where to host it, how to build it and which tools to add for forms and landing pages.",
+      "For hosting in particular, introductory prices often differ from renewal prices — always check both on the provider's site."
+    ],
+    "subcategories": [
+      { "slug": "hosting", "name": "Hosting", "description": "Shared, cloud, VPS and managed WordPress hosting." },
+      { "slug": "domains", "name": "Domains", "description": "Register and manage domain names." },
+      { "slug": "wordpress", "name": "WordPress", "description": "WordPress hosting, themes and tools." },
+      { "slug": "website-builders", "name": "Website Builders", "description": "Build sites without code." },
+      { "slug": "landing-pages", "name": "Landing Pages", "description": "Create focused pages for campaigns." },
+      { "slug": "forms", "name": "Forms", "description": "Build forms, surveys and quizzes." }
+    ],
+    "seo": {
+      "title": "Website Tools: Hosting, Domains & Website Builders",
+      "description": "Find website tools for hosting, domains, WordPress, website builders, landing pages and forms. Compare options and check what to verify."
+    }
+  },
+  {
+    "slug": "productivity-tools",
+    "name": "Productivity Tools",
+    "shortName": "Productivity",
+    "icon": "check",
+    "description": "Project management, notes, task management, collaboration and automation apps.",
+    "intro": [
+      "Productivity tools work best when the whole team actually uses them. Simplicity, integrations and pricing per seat usually matter more than long feature lists.",
+      "Automation platforms in this section connect apps together so routine tasks run without manual copying and pasting."
+    ],
+    "subcategories": [
+      { "slug": "project-management", "name": "Project Management", "description": "Plan and track projects and teams." },
+      { "slug": "notes", "name": "Notes", "description": "Capture and organise notes and knowledge." },
+      { "slug": "task-management", "name": "Task Management", "description": "To-do lists and personal task tracking." },
+      { "slug": "collaboration", "name": "Collaboration", "description": "Shared docs, whiteboards and team spaces." },
+      { "slug": "automation", "name": "Automation", "description": "Connect apps and automate workflows." }
+    ],
+    "seo": {
+      "title": "Productivity Tools: Projects, Notes & Automation",
+      "description": "Browse productivity tools for project management, notes, tasks, collaboration and workflow automation. Free plan notes and comparisons."
+    }
+  },
+  {
+    "slug": "business-tools",
+    "name": "Business Tools",
+    "shortName": "Business",
+    "icon": "briefcase",
+    "description": "CRM, invoicing, accounting, scheduling and communication software for small businesses.",
+    "intro": [
+      "Business software handles customer records, money and scheduling — areas where reliability, data export and local tax support matter.",
+      "Check regional availability (for example GST, VAT or sales tax features) before choosing an accounting or invoicing tool."
+    ],
+    "subcategories": [
+      { "slug": "crm", "name": "CRM", "description": "Manage leads, customers and pipelines." },
+      { "slug": "invoicing", "name": "Invoicing", "description": "Create and send invoices, track payments." },
+      { "slug": "accounting", "name": "Accounting", "description": "Bookkeeping, reports and tax preparation." },
+      { "slug": "scheduling", "name": "Scheduling", "description": "Online booking and calendar scheduling." },
+      { "slug": "communication", "name": "Communication", "description": "Team chat, video calls and messaging." }
+    ],
+    "seo": {
+      "title": "Business Tools: CRM, Invoicing, Accounting",
+      "description": "Find business tools for CRM, invoicing, accounting, scheduling and communication. What to check on pricing, data export and regional support."
+    }
+  },
+  {
+    "slug": "security-tools",
+    "name": "Security Tools",
+    "shortName": "Security",
+    "icon": "shield",
+    "description": "VPNs, password managers, privacy and security software.",
+    "intro": [
+      "Security tools ask for a lot of trust. Look for independent audits, clear privacy policies and a track record before choosing one.",
+      "Profiles in this section focus on verifiable facts — supported platforms, free plan limits and published audit information — rather than marketing claims."
+    ],
+    "subcategories": [
+      { "slug": "vpn", "name": "VPN", "description": "Encrypt traffic and change your apparent location." },
+      { "slug": "password-managers", "name": "Password Managers", "description": "Store and generate strong passwords." },
+      { "slug": "privacy", "name": "Privacy", "description": "Tracker blocking, private email and browsing." },
+      { "slug": "security", "name": "Security", "description": "Antivirus, backups and account protection." }
+    ],
+    "seo": {
+      "title": "Security Tools: VPNs, Password Managers & Privacy",
+      "description": "Explore security tools including VPNs, password managers and privacy software. What to verify before you trust a security product."
+    }
+  }
+]

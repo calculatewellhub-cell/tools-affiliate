@@ -1,0 +1,145 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Zapier",
+    "n8n",
+    "Pabbly Connect",
+    "IFTTT"
+  ],
+  "relatedGuides": [
+    "no-code-automation-basics"
+  ],
+  "relatedFreeTools": [
+    "utm-builder"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "make",
+  "name": "Make",
+  "brandColor": "#6D00CC",
+  "category": "productivity-tools",
+  "subcategories": [
+    "automation",
+    "marketing-tools/marketing-automation"
+  ],
+  "tags": [
+    "no-code automation",
+    "workflow automation",
+    "integrations",
+    "integromat",
+    "zapier alternative",
+    "visual workflow",
+    "api",
+    "ai agents"
+  ],
+  "isAI": false,
+  "platforms": [
+    "Web"
+  ],
+  "tagline": "Visual no-code platform for automating workflows between apps.",
+  "shortDescription": "Visual automation platform (formerly Integromat) for connecting apps and building multi-step workflows.",
+  "description": [
+    "Make, formerly known as Integromat, is a no-code automation platform. You build workflows — called scenarios — on a visual canvas that connects apps and passes data between them.",
+    "The visual builder suits workflows with branching, filters and data transformation. It also supports HTTP requests for connecting services without a dedicated integration.",
+    "Make has a free plan and paid plans based on usage. Because automation costs scale with how often workflows run, estimate your monthly volume before choosing a plan."
+  ],
+  "websiteUrl": "https://www.make.com/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Pricing is usage-based. Estimate how many operations your workflows will run each month before choosing a plan.",
+    "model": "freemium",
+    "freePlan": "yes",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://www.make.com/en/pricing"
+  },
+  "keyFeatures": [
+    {
+      "title": "Visual scenario builder",
+      "description": "Design workflows on a canvas and see how data flows between steps."
+    },
+    {
+      "title": "App integrations",
+      "description": "Connect a large library of apps. Check the official site for a specific app."
+    },
+    {
+      "title": "Routers and filters",
+      "description": "Branch workflows and add conditions for more complex logic."
+    },
+    {
+      "title": "HTTP and webhooks",
+      "description": "Connect services via APIs and webhooks when there is no ready-made integration."
+    }
+  ],
+  "howItWorks": [
+    "Create an account and start a new scenario.",
+    "Add a trigger, such as a new form submission or a scheduled time.",
+    "Add actions in other apps and map data between them.",
+    "Test the scenario with sample data, then switch it on."
+  ],
+  "useCases": [
+    "Sending form leads to a CRM and email list",
+    "Syncing data between spreadsheets and apps",
+    "Automating content publishing steps"
+  ],
+  "bestFor": [
+    "Users comfortable with visual logic",
+    "Complex multi-step or branching workflows"
+  ],
+  "notIdealFor": [
+    "Someone who wants the simplest possible two-step automations",
+    "Workflows that must run on-premises"
+  ],
+  "pros": [
+    "A free plan is available",
+    "Visual builder makes complex logic easier to follow",
+    "Supports generic HTTP requests and webhooks"
+  ],
+  "cons": [
+    "Usage-based pricing needs estimating up front",
+    "Visual logic has a learning curve for beginners"
+  ],
+  "alternatives": [
+    "zapier"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Time for a beginner to build a three-step workflow (form → spreadsheet → email)",
+      "Error handling and retry behaviour when a connected app fails",
+      "Free plan operations allowance on the date of testing",
+      "Availability of integrations for a list of 20 common apps"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Is Make the same as Integromat?",
+      "a": "Yes. Integromat was rebranded as Make."
+    },
+    {
+      "q": "Make or Zapier — which should I use?",
+      "a": "It depends on your workflows and budget. Read our Make vs Zapier comparison for the key differences."
+    }
+  ],
+  "seo": {
+    "title": "Make (Integromat): No-Code Automation Overview & Alternatives",
+    "description": "Make explained: visual no-code automation, who it suits, free plan notes, usage-based pricing and Make vs Zapier.",
+    "primaryKeyword": "make automation",
+    "secondaryKeywords": [
+      "make.com",
+      "integromat",
+      "make vs zapier"
+    ]
+  }
+}

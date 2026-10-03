@@ -1,0 +1,147 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Pictory",
+    "InVideo",
+    "Synthesia",
+    "Lumen5"
+  ],
+  "relatedGuides": [
+    "free-vs-freemium-vs-paid-software"
+  ],
+  "relatedFreeTools": [
+    "word-counter"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "fliki",
+  "name": "Fliki",
+  "brandColor": "#7C3AED",
+  "category": "video-tools",
+  "subcategories": [
+    "text-to-video",
+    "text-to-speech",
+    "ai-video",
+    "ai-tools/ai-video",
+    "ai-tools/ai-voice"
+  ],
+  "tags": [
+    "text to video",
+    "ai voiceover",
+    "text to speech",
+    "youtube",
+    "social video",
+    "blog to video",
+    "faceless videos",
+    "content creators"
+  ],
+  "isAI": true,
+  "platforms": [
+    "Web"
+  ],
+  "tagline": "Turn scripts and text into videos with AI voiceovers.",
+  "shortDescription": "AI tool for turning text, scripts and ideas into videos with AI voiceovers.",
+  "description": [
+    "Fliki is a web-based AI tool for creating videos from text. You provide a script or idea, and it helps assemble scenes with visuals and an AI-generated voiceover.",
+    "It is popular with creators who want to produce short social videos or explainer clips without recording their own voice or filming footage.",
+    "Free plan limits, export quality and watermarking are important details for video tools — check the current terms on the official website."
+  ],
+  "websiteUrl": "https://fliki.ai/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Demo profile: plan names and prices have not been recorded yet. Check the official website for current pricing.",
+    "model": "freemium",
+    "freePlan": "yes",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://fliki.ai/pricing"
+  },
+  "keyFeatures": [
+    {
+      "title": "Text to video",
+      "description": "Builds video scenes from a script or text input."
+    },
+    {
+      "title": "AI voiceovers",
+      "description": "Generates narration from text using AI voices."
+    },
+    {
+      "title": "Browser-based editor",
+      "description": "Edit scenes, timing and media in the browser — no software install."
+    }
+  ],
+  "howItWorks": [
+    "Sign up on the official website.",
+    "Start a new project from a script, idea or existing text.",
+    "Choose a voice and adjust scenes and visuals.",
+    "Preview, then export the video for your platform."
+  ],
+  "useCases": [
+    "Short videos for social media",
+    "Narrated explainers from blog posts",
+    "Voiceovers for presentations"
+  ],
+  "bestFor": [
+    "Creators making faceless or narrated videos",
+    "Marketers repurposing written content"
+  ],
+  "notIdealFor": [
+    "Professional film editing",
+    "Projects needing a real human presenter on camera"
+  ],
+  "pros": [
+    "A free plan is available to try the workflow",
+    "No video editing experience needed",
+    "Combines visuals and voiceover in one tool"
+  ],
+  "cons": [
+    "Check free plan limits, watermarks and export quality",
+    "AI voices may not suit every brand",
+    "Stock media licensing terms should be reviewed for commercial use"
+  ],
+  "alternatives": [
+    "pictory",
+    "adobe-express"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Time to produce a 60-second video from a 150-word script",
+      "Naturalness of AI voices in English (US, UK, Indian and Australian accents if offered)",
+      "Free plan export limits and watermark on the date of testing",
+      "Licensing terms for included stock media"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Does Fliki have a free plan?",
+      "a": "Fliki lists a free plan. Check the official pricing page for current limits such as minutes, export quality and watermarks."
+    },
+    {
+      "q": "Can I use Fliki videos commercially?",
+      "a": "Commercial use may depend on your plan and on stock media licences. Read Fliki's current terms before publishing commercial content."
+    }
+  ],
+  "seo": {
+    "title": "Fliki: AI Text-to-Video & Voiceover Tool Overview",
+    "description": "What Fliki does for text-to-video and AI voiceovers, who it's for, free plan notes, limitations and alternatives like Pictory.",
+    "primaryKeyword": "fliki",
+    "secondaryKeywords": [
+      "fliki ai",
+      "text to video",
+      "fliki alternatives"
+    ]
+  },
+  "featured": true
+}

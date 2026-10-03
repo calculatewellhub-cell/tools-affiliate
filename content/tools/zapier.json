@@ -1,0 +1,145 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Make",
+    "n8n",
+    "Pabbly Connect",
+    "IFTTT"
+  ],
+  "relatedGuides": [
+    "no-code-automation-basics"
+  ],
+  "relatedFreeTools": [
+    "utm-builder"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "zapier",
+  "name": "Zapier",
+  "brandColor": "#FF4F00",
+  "category": "productivity-tools",
+  "subcategories": [
+    "automation",
+    "marketing-tools/marketing-automation"
+  ],
+  "tags": [
+    "no-code automation",
+    "workflow automation",
+    "integrations",
+    "zaps",
+    "connect apps",
+    "ai automation",
+    "small business automation"
+  ],
+  "isAI": false,
+  "platforms": [
+    "Web"
+  ],
+  "tagline": "Connect your apps and automate routine tasks without code.",
+  "shortDescription": "No-code automation platform for connecting web apps and automating multi-step workflows.",
+  "description": [
+    "Zapier is a no-code automation platform that connects web apps. You build automations — called Zaps — where an event in one app triggers actions in others.",
+    "It is known for a large library of app integrations and a step-by-step builder that is approachable for non-technical users.",
+    "Zapier has a free plan and paid plans priced by usage. Count how many tasks your automations will run each month to estimate cost."
+  ],
+  "websiteUrl": "https://zapier.com/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Pricing is usage-based. Estimate monthly task volume before choosing a plan.",
+    "model": "freemium",
+    "freePlan": "yes",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://zapier.com/pricing"
+  },
+  "keyFeatures": [
+    {
+      "title": "Trigger–action automations",
+      "description": "When something happens in one app, automatically do something in another."
+    },
+    {
+      "title": "Large integration library",
+      "description": "Connects a very large number of web apps. Check the official app directory for a specific app."
+    },
+    {
+      "title": "Multi-step workflows",
+      "description": "Chain several actions together. Some advanced steps depend on the plan."
+    },
+    {
+      "title": "Templates",
+      "description": "Start from pre-built automation templates for common tasks."
+    }
+  ],
+  "howItWorks": [
+    "Create an account and click to create a new Zap.",
+    "Choose a trigger app and event.",
+    "Add one or more action steps and map the data.",
+    "Test, then turn the Zap on."
+  ],
+  "useCases": [
+    "Saving email attachments to cloud storage",
+    "Adding new leads to a CRM",
+    "Posting notifications to team chat"
+  ],
+  "bestFor": [
+    "Non-technical users",
+    "Teams that use many different SaaS apps"
+  ],
+  "notIdealFor": [
+    "Very high-volume automation on a tight budget",
+    "Workflows that must run on your own servers"
+  ],
+  "pros": [
+    "A free plan is available",
+    "Approachable step-by-step builder",
+    "Large integration library"
+  ],
+  "cons": [
+    "Costs grow with task volume",
+    "Some features such as multi-step Zaps may depend on plan — check current details"
+  ],
+  "alternatives": [
+    "make"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Time for a beginner to build a three-step workflow (form → spreadsheet → email)",
+      "Free plan task allowance and step limits on the date of testing",
+      "Error notifications and replay options when a step fails",
+      "Availability of integrations for a list of 20 common apps"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Is Zapier free?",
+      "a": "Zapier offers a free plan with limits, and paid plans for more tasks and features. Check the official pricing page for current limits."
+    },
+    {
+      "q": "Do I need to code to use Zapier?",
+      "a": "No. Zapier is designed for no-code use, although optional code steps and webhooks are available for advanced users."
+    }
+  ],
+  "seo": {
+    "title": "Zapier: No-Code Automation Overview, Free Plan & Alternatives",
+    "description": "What Zapier does, who it suits, free plan notes, usage-based pricing considerations and Zapier alternatives such as Make.",
+    "primaryKeyword": "zapier",
+    "secondaryKeywords": [
+      "zapier free plan",
+      "zapier alternatives",
+      "zapier vs make"
+    ]
+  },
+  "featured": true
+}

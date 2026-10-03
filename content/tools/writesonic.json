@@ -1,0 +1,146 @@
+{
+  "screenshots": [],
+  "freeVsPaid": [],
+  "competitors": [
+    "Jasper",
+    "Copy.ai",
+    "Rytr"
+  ],
+  "relatedGuides": [
+    "how-to-choose-an-ai-writing-tool",
+    "how-to-evaluate-seo-tools"
+  ],
+  "relatedFreeTools": [
+    "word-counter",
+    "serp-snippet-preview"
+  ],
+  "dates": {
+    "published": "2026-10-03",
+    "lastUpdated": "2026-10-03",
+    "lastChecked": null
+  },
+  "dataStatus": "draft",
+  "slug": "writesonic",
+  "name": "Writesonic",
+  "brandColor": "#6B46C1",
+  "category": "ai-tools",
+  "subcategories": [
+    "ai-writing",
+    "ai-seo",
+    "ai-marketing",
+    "seo-tools/ai-seo",
+    "writing-tools/ai-writing"
+  ],
+  "tags": [
+    "ai writer",
+    "ai content",
+    "blog writing",
+    "seo content",
+    "marketing copy",
+    "ai seo",
+    "ai chatbot"
+  ],
+  "isAI": true,
+  "platforms": [
+    "Web"
+  ],
+  "tagline": "AI writing and SEO-focused content platform for marketers and bloggers.",
+  "shortDescription": "AI platform for drafting articles, marketing copy and SEO-oriented content.",
+  "description": [
+    "Writesonic is an AI content platform aimed at marketers, bloggers and businesses. It is used to draft articles, marketing copy and other written content from prompts and briefs.",
+    "The product has increasingly positioned itself around SEO and AI search visibility. Because its feature set changes frequently, check the official website for the current list of tools included in each plan.",
+    "As with any AI writer, drafts need human editing and fact-checking before publishing."
+  ],
+  "websiteUrl": "https://writesonic.com/",
+  "pricing": {
+    "startingPrice": null,
+    "plans": [],
+    "notes": "Demo profile: plan names and prices have not been recorded yet. Check the official website for current pricing.",
+    "model": "unknown",
+    "freePlan": "unknown",
+    "freeTrial": "unknown",
+    "paidPlans": "yes",
+    "pricingPageUrl": "https://writesonic.com/pricing"
+  },
+  "keyFeatures": [
+    {
+      "title": "AI article drafting",
+      "description": "Generates long-form drafts from a topic, keywords or outline."
+    },
+    {
+      "title": "Marketing copy",
+      "description": "Produces short-form copy such as ad text, product descriptions and social posts."
+    },
+    {
+      "title": "SEO-oriented features",
+      "description": "Positions features around search visibility. Verify current SEO features on the official site."
+    }
+  ],
+  "howItWorks": [
+    "Sign up on the official website.",
+    "Choose the type of content you want to create.",
+    "Provide a topic, keywords, audience and tone.",
+    "Generate a draft, then edit, fact-check and add your own expertise before publishing."
+  ],
+  "useCases": [
+    "First drafts of blog posts",
+    "Product descriptions and ad copy",
+    "Content briefs and outlines"
+  ],
+  "bestFor": [
+    "Marketers producing a high volume of drafts",
+    "Bloggers who edit AI drafts heavily"
+  ],
+  "notIdealFor": [
+    "Publishing unedited AI text",
+    "Topics needing first-hand expertise, such as medical or financial advice"
+  ],
+  "pros": [
+    "Covers both long-form and short-form copy",
+    "Focus on SEO workflows"
+  ],
+  "cons": [
+    "Pricing structure and free access should be verified on the official site",
+    "AI drafts require careful fact-checking",
+    "Feature set changes often, so older reviews may be out of date"
+  ],
+  "alternatives": [
+    "grammarly",
+    "quillbot",
+    "semrush"
+  ],
+  "evaluation": {
+    "status": "not-tested",
+    "testedOn": null,
+    "testedBy": null,
+    "summary": null,
+    "findings": [],
+    "rating": null,
+    "checklist": [
+      "Factual accuracy of a generated article on a topic with known facts",
+      "How much editing a draft needs before it is publishable",
+      "Current free access or trial terms on the date of testing",
+      "Which SEO features are included in the entry-level plan"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Does Writesonic have a free plan?",
+      "a": "We have not yet verified current free access. Check the official pricing page for up-to-date plan details."
+    },
+    {
+      "q": "Can I publish Writesonic content without editing?",
+      "a": "We don't recommend it. AI-generated drafts can contain errors and generic statements. Edit, fact-check and add your own experience before publishing."
+    }
+  ],
+  "seo": {
+    "title": "Writesonic: AI Writing Features, Pricing Notes & Alternatives",
+    "description": "What Writesonic does for AI writing and SEO content, who it suits, limitations to know and alternatives to compare.",
+    "primaryKeyword": "writesonic",
+    "secondaryKeywords": [
+      "writesonic alternatives",
+      "ai writing tool",
+      "ai seo writer"
+    ]
+  }
+}
